@@ -1,1 +1,16 @@
-
+{
+  "node": "n8n-nodes-google-places-api.googlePlacesApi",
+  "nodeVersion": 1,
+  "codexVersion": 1,
+  "categories": [
+    "Data Science",
+    "Utility"
+  ],
+  "keywords": [
+    "google",
+    "places",
+    "maps",
+    "location",
+    "search"
+  ]
+}
