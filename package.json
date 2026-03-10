@@ -1,12 +1,15 @@
 {
-  "name": "n8n-nodes-google-places-api",
+  "name": "n8n-nodes-google-places",
   "version": "1.0.0",
-  "description": "Google Places API community node",
+  "description": "Google Places API node for n8n",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "npm run build"
   },
+  "keywords": [
+    "n8n-community-node-package"
+  ],
   "n8n": {
     "nodes": [
       "dist/nodes/PlacesAPI/PlacesAPI.node.js"
